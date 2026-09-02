@@ -1,9 +1,0 @@
-com.ohmygod.shopagent.uid.config.WorkerNodeConfig
-com.ohmygod.shopagent.uid.config.IdGeneratorRedisConfig
-com.ohmygod.shopagent.config.IdGeneratorAutoConfig
-com.ohmygod.shopagent.config.RedisFrameWorkAutoConfig
-com.ohmygod.shopagent.redis.config.RedisCacheAutoConfig
-com.ohmygod.shopagent.config.RedissonCommonAutoConfiguration
-com.ohmygod.shopagent.config.ServiceLockAutoConfiguration
-com.ohmygod.shopagent.config.ServiceLeaseAutoConfiguration
-com.ohmygod.shopagent.config.DelayQueueAutoConfig
