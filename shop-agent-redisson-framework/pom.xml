@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.ohmygod</groupId>
+        <artifactId>shop-agent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>shop-agent-redisson-framework</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>shop-agent-service-delay-queue-framework</module>
+        <module>shop-agent-redisson-service-framework</module>
+    </modules>
+</project>

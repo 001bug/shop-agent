@@ -1,0 +1,3 @@
+com.ohmygod.shopagent.uid.config.WorkerNodeConfig
+com.ohmygod.shopagent.uid.config.IdGeneratorRedisConfig
+com.ohmygod.shopagent.config.IdGeneratorAutoConfig
