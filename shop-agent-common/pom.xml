@@ -7,7 +7,12 @@
         <artifactId>shop-agent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>shop-agent-common-framework</artifactId>
+    <artifactId>shop-agent-common</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>shop-agent-common-frame</module>
+        <module>shop-agent-common-web</module>
+    </modules>
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>

@@ -1,11 +1,11 @@
 package com.ohmygod.shopagent.lockinfo;
 
 import com.ohmygod.shopagent.parser.ExtParameterNameDiscoverer;
+import com.ohmygod.core.SpringUtil;
 import org.springframework.util.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.reflect.MethodSignature;
-import com.ohmygod.shopagent.core.SpringUtil;
 import org.springframework.context.expression.MethodBasedEvaluationContext;
 import org.springframework.core.ParameterNameDiscoverer;
 import org.springframework.expression.EvaluationContext;
@@ -80,4 +80,3 @@ public abstract class AbstractLockInfoHandle implements LockInfoHandle {
     }
 
 }
-

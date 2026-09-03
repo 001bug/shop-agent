@@ -15,11 +15,11 @@
     <name>shop-agent</name>
     <description>Shop Agent aggregated project</description>
     <modules>
-        <module>shop-agent-common-framework</module>
+        <module>shop-agent-common</module>
         <module>shop-agent-id-generator-framework</module>
         <module>shop-agent-redis-tool-framework</module>
         <module>shop-agent-redisson-framework</module>
-        <module>shop-agent-application</module>
+        <module>shop-agent-business</module>
     </modules>
     <properties>
         <java.version>17</java.version>
@@ -27,5 +27,7 @@
         <hutool.version>5.8.25</hutool.version>
         <fastjson.version>1.2.83</fastjson.version>
         <commons-lang.version>2.6</commons-lang.version>
+        <openapi.swagger.version>2.2.0</openapi.swagger.version>
+        <minio.version>8.5.17</minio.version>
     </properties>
 </project>

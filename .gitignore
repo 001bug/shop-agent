@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local working files and media samples
+/CompleteSmartLockInstallationTutorialEasytoInstall,.mp4
+/tmp.md
+/shop-agent-business/shop-agent-business-chat/src/main/java/com/ohmygod/shopagent/manage/fsd

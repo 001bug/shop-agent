@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>com.ohmygod</groupId>
-            <artifactId>shop-agent-common-framework</artifactId>
+            <artifactId>shop-agent-common</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
