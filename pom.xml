@@ -29,5 +29,6 @@
         <commons-lang.version>2.6</commons-lang.version>
         <openapi.swagger.version>2.2.0</openapi.swagger.version>
         <minio.version>8.5.17</minio.version>
+        <mybatis-plus.version>3.5.17</mybatis-plus.version>
     </properties>
 </project>
